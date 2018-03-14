@@ -1,5 +1,5 @@
 #include <Servo.h>
-int servoPin = 12;
+int servoPin = 12; 
 Servo Servo1;
 
 const int ServoMoteur = A0;
